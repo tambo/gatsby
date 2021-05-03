@@ -8,7 +8,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@wordpress/block-library": "^2.29.2",
+    "@wordpress/block-library": "^2.29.3",
     "gatsby": "^2.32.12",
     "gatsby-image": "^2.11.0",
     "gatsby-plugin-manifest": "^2.12.1",
