@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-transformer-remark",
+  "name": "@tamsaunders/gatsby-transformer-remark",
   "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
   "version": "4.2.0-next.1",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby.git",
+    "url": "https://github.com/tambo/gatsby.git",
     "directory": "packages/gatsby-transformer-remark"
   },
   "scripts": {
